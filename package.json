@@ -1,0 +1,11 @@
+{
+  "name": "witflix",
+  "version": "1.0.0",
+  "description": "(index.js) index.html",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Çağrı Sönmez",
+  "license": "ISC"
+}
